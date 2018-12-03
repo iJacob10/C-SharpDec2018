@@ -24,4 +24,13 @@ namespace Project1234
             Console.WriteLine("Hello for file " + i);
         }
     }
+    
+    class File5
+    {
+        public void printfun()
+        {
+            int i = 5;
+            Console.WriteLine("Hello for file " + i);
+        }
+    }
 }
