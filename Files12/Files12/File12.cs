@@ -28,6 +28,10 @@ namespace Project1234
             int i = 1;
             Console.WriteLine("Hello for file " + i);
         }
+        public void printFun2()
+        {
+            Console.WriteLine("Error" + i);
+        }
 
     }
     class File2
