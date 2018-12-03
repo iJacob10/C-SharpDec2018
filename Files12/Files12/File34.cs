@@ -33,4 +33,13 @@ namespace Project1234
             Console.WriteLine("Hello for file " + i);
         }
     }
+    
+    class File6
+    {
+        public void printfun()
+        {
+            int i = 6;
+            Console.WriteLine("Hello for file "  i);
+        }
+    }
 }
