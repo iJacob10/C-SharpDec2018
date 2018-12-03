@@ -27,7 +27,7 @@ namespace Project1234
             f5.printfun();
 
             File6 f6 = new File6();
-            f7.printfun();
+            f6.printfun();
 
             Console.ReadKey();
         }
