@@ -39,7 +39,7 @@ namespace Project1234
         public void printfun()
         {
             int i = 6;
-            Console.WriteLine("Hello for file "  i);
+            Console.WriteLine("Hello for file "  +i);
         }
     }
 }

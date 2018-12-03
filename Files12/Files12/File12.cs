@@ -12,6 +12,7 @@ namespace Project1234
         {
             File12 f1 = new File12();
             f1.printfun();
+            f1.printFun2();
 
             File2 f2 = new File2();
             f2.printfun();
@@ -21,6 +22,13 @@ namespace Project1234
 
             File4 f4 = new File4();
             f4.printfun();
+
+            File5 f5 = new File5();
+            f5.printfun();
+
+            File6 f6 = new File6();
+            f7.printfun();
+
             Console.ReadKey();
         }
         public void printfun()
@@ -30,6 +38,7 @@ namespace Project1234
         }
         public void printFun2()
         {
+            int i = 22;
             Console.WriteLine("Error" + i);
         }
 
