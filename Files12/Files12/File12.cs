@@ -29,6 +29,8 @@ namespace Project1234
             File6 f6 = new File6();
             f6.printfun();
 
+            Console.WriteLine("Sample Code")
+
             Console.ReadKey();
         }
         public void printfun()
